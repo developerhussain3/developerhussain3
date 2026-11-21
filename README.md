@@ -12,21 +12,18 @@ I prefer understanding how things work under the hood rather than relying purely
 
 Technical Stack
 
-| Languages | Java, C++, Python, JavaScript, HTML, CSS |
-| Backend & Databases | Spring Boot, MySQL, SQLite3 |
-| Core & Systems | Custom DSA, OOP, Win32 API, Computer Networking |
-| Tools | Git, GitHub, VS Code, Wireshark, Cisco Packet Tracer |
+- Languages: Java, C++, Python, JavaScript, HTML, CSS
+
+- Backend & Databases: Spring Boot, MySQL, SQLite3
+
+- Core & Systems: Custom DSA, OOP, Win32 API, Computer Networking
+
+- Tools: Git, GitHub, VS Code, Wireshark, Cisco Packet Tracer
 
 Projects
 
 - V8 Search Engine — Jupiter  
   A local search engine built with a custom Java inverted-index backend, SQLite3 storage, and a minimal HTML/CSS/JS frontend.
-
-- Exam Guard Monitoring App  
-  A C++ / Win32 desktop utility designed for university exam halls to monitor screen activity and detect unauthorized USB devices.
-
-- Anti-Theft Intruder Detection System  
-  A Java-based security monitoring application built to detect and log unauthorized access attempts.
 
 - Car Rental System
   A web application for managing vehicle listings, bookings, and rental workflows.
