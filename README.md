@@ -22,10 +22,10 @@ Technical Stack
 
 Projects
 
-- V8 Search Engine — Jupiter  
+- V8 Search Engine — Jupiter [https://github.com/developerhussain3/v8-search-engine-jupiter]
   A local search engine built with a custom Java inverted-index backend, SQLite3 storage, and a minimal HTML/CSS/JS frontend.
 
-- Car Rental System
+- Car Rental System [https://github.com/developerhussain3/Car-Rental-System]
   A web application for managing vehicle listings, bookings, and rental workflows.
 
 Outside of Code
